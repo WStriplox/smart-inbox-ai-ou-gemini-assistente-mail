@@ -1,0 +1,5 @@
+{
+  "name": "Smart Inbox",
+  "description": "An AI-powered email client that connects to Gmail, summarizes emails, and categorizes them by priority, focusing on job opportunities and professional communications.",
+  "requestFramePermissions": []
+}
